@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=FF8AAE&center=true&vCenter=true&width=700&lines=H.E.R.+DAO;Empowering+Women+%26+Nonbinary+Web3+Builders!" alt="Typing H.E.R. DAO"/>
 </h1>
 
+<!-- Fun animated group of women (replace with your own custom GIF for even more personality!) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVpH3mCyk7AMrC/giphy.gif" alt="Happy Group of Women" width="270"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Empowerment-FF8AAE?style=flat-square&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Diversity-A8FFBA?style=flat-square&logo=rainbow&logoColor=white"/>
@@ -14,9 +19,9 @@
 </p>
 
 <p align="center">
-  <b><i>Women + Nonbinary devs leading innovation & diversity in Web3</i></b>  
-  <br><br>
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Empowered Builders" width="250"/>
+  <b><i>Women + Nonbinary devs leading innovation & diversity in Web3</i></b>
+  <br>
+  <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" alt="Celebrating together" width="220"/>
 </p>
 
 ---
@@ -24,10 +29,10 @@
 ## 🌟 About Us
 
 **H.E.R. DAO** is a vibrant, global community smashing barriers in Web3 by empowering women and nonbinary developers, builders, and creators.  
-We champion innovation, learning, and collaboration through hackathons, grants, mentorship, and IRL opportunities.
+We champion innovation, learning, and collaboration through hackathons, grants, mentorship, and IRL opportunities — and we believe *fun* is at the heart of real change!
 
 - <b>🚀 Mission:</b> Build a more inclusive, innovative, and equitable tech ecosystem.
-- <b>⚡ Values:</b> Empowerment, Diversity, Collaboration, Innovation, Badass Energy.
+- <b>⚡ Values:</b> Empowerment, Diversity, Collaboration, Innovation, Badass Energy, <span style="color:#FF8AAE;">✨ Fun! ✨</span>
 
 ---
 
@@ -64,9 +69,9 @@ We champion innovation, learning, and collaboration through hackathons, grants, 
 
 ## 🚀 Join the Movement
 
-> <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="30"/>  
+> <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="30"/>
 > <b>Ready to build, learn, and lead in Web3?</b><br>
-> <b>Join H.E.R. DAO to connect, collaborate, and innovate with other badass women and nonbinary changemakers!</b>
+> <b>Join H.E.R. DAO to connect, collaborate, vibe, and innovate with other badass women and nonbinary changemakers!</b>
 
 <p align="center">
   <a href="https://www.her-dao.xyz/" style="background: linear-gradient(90deg,#A8FFBA,#FF8AAE,#8AD5FF); color: white; border-radius: 8px; padding: 16px 36px; font-weight: bold; text-decoration: none; font-size: 1.3em; box-shadow: 0 0 12px #A8FFBA, 0 0 24px #FF8AAE, 0 0 36px #8AD5FF;">
@@ -77,7 +82,7 @@ We champion innovation, learning, and collaboration through hackathons, grants, 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=8AD5FF&vCenter=true&width=900&lines=Empowering+Women+%26+Nonbinary+Builders!;Join+the+Future+of+Web3+with+HER+DAO!;Innovation+Is+Inclusive+%F0%9F%92%AB;Diversity+Drives+Web3+%F0%9F%8C%88;Bring+Your+Energy+to+HERDAO!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=8AD5FF&vCenter=true&width=900&lines=Empowering+Women+%26+Nonbinary+Builders!;Join+the+Future+of+Web3+with+HER+DAO!;Innovation+Is+Inclusive+%F0%9F%92%AB;Diversity+Drives+Web3+%F0%9F%8C%88;Bring+Your+Energy+to+HERDAO!;Fun+is+Serious+Business+at+HERDAO+%F0%9F%92%A1%F0%9F%8C%88" alt="Typing SVG" />
 </p>
 
 ---
@@ -103,5 +108,6 @@ We provide mentorship, resources, and a supportive ecosystem for emerging ideas 
 ---
 
 <p align="center" style="color:#FF8AAE;font-weight:bold;font-size:1.2em">
-  ✨ <i>Build with us. Learn with us. Lead with us. Your energy belongs here!</i> ✨
+  ✨ <i>Build with us. Laugh with us. Lead with us.<br>
+  Your energy, joy, and creativity belong here!</i> ✨
 </p>
