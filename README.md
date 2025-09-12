@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌈 H.E.R. DAO  
 
-<!--
-**Her-Dao/Her-Dao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Maa-ly/herdao-readme-assets/blob/main/logo.png" width="300" alt="HER DAO Logo">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>🌍 A women + nonbinary focused developer DAO championing innovation & diversity in Web3 🚀</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Who We Are  
+**H.E.R. DAO** is a global, inclusive collective of builders, innovators, and creators.  
+We empower women + nonbinary developers to thrive in Web3 by fostering:  
+
+- 🛠️ **Technical innovation**  
+- 🌈 **Diversity & inclusion**  
+- 🤝 **Collaboration & mentorship**  
+- 🚀 **Opportunities in hackathons & beyond**  
+
+---
+
+## 🎨 Our Vibes  
+We live in gradients 💚💗💙  
+
+```css
+HER-DAO Colors:
+Green:  #A8FFBA
+Pink:   #FF8AAE
+Blue:   #8AD5FF
